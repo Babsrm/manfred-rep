@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Montilla"
+        "municipality": "Montilla",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -298,10 +299,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -427,7 +430,8 @@
         "name": "Spring Boot",
         "startDate": "2023-03-01",
         "institution": {
-          "name": "Udemy"
+          "name": "Udemy",
+          "description": ""
         },
         "linkedCompetences": [
           {
@@ -503,7 +507,8 @@
         "startDate": "2020-04-01",
         "finishDate": "2020-10-01",
         "institution": {
-          "name": "UCJC - IMF Business School"
+          "name": "UCJC - IMF Business School",
+          "description": ""
         }
       },
       {
@@ -513,7 +518,8 @@
         "startDate": "2019-02-01",
         "finishDate": "2019-06-01",
         "institution": {
-          "name": "IMF"
+          "name": "IMF",
+          "description": ""
         }
       },
       {
@@ -523,7 +529,8 @@
         "startDate": "2015-08-01",
         "finishDate": "2016-01-01",
         "institution": {
-          "name": "Moorpark College"
+          "name": "Moorpark College",
+          "description": ""
         }
       },
       {
@@ -533,7 +540,8 @@
         "startDate": "2010-09-01",
         "finishDate": "2012-06-01",
         "institution": {
-          "name": "IES Zaidin-Vergeles"
+          "name": "IES Zaidin-Vergeles",
+          "description": ""
         }
       }
     ]
@@ -617,6 +625,31 @@
         "Frontend Developer",
         "Human Resources"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "JAVA",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "Spring Boot",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "MySQL",
+        "type": "technology"
+      }
+    ]
   }
 }
