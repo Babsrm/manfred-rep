@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Montilla",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Montilla"
       }
     },
     "relevantLinks": [
@@ -105,6 +104,23 @@
               {
                 "name": "SAP",
                 "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "many"
+        },
+        "roles": [
+          {
+            "name": "Others jobs I have worked on:",
+            "startDate": "2007-01-01",
+            "finishDate": "2016-06-01",
+            "challenges": [
+              {
+                "description": "I have also been spending my time working for years as: ·waitress ·house cleaner ·shop assistant ·aupair ·babysitter ·farmer"
               }
             ]
           }
@@ -282,12 +298,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -413,8 +427,7 @@
         "name": "Spring Boot",
         "startDate": "2023-03-01",
         "institution": {
-          "name": "Udemy",
-          "description": ""
+          "name": "Udemy"
         },
         "linkedCompetences": [
           {
@@ -490,8 +503,7 @@
         "startDate": "2020-04-01",
         "finishDate": "2020-10-01",
         "institution": {
-          "name": "UCJC - IMF Business School",
-          "description": ""
+          "name": "UCJC - IMF Business School"
         }
       },
       {
@@ -501,8 +513,7 @@
         "startDate": "2019-02-01",
         "finishDate": "2019-06-01",
         "institution": {
-          "name": "IMF",
-          "description": ""
+          "name": "IMF"
         }
       },
       {
@@ -512,8 +523,7 @@
         "startDate": "2015-08-01",
         "finishDate": "2016-01-01",
         "institution": {
-          "name": "Moorpark College",
-          "description": ""
+          "name": "Moorpark College"
         }
       },
       {
@@ -523,8 +533,7 @@
         "startDate": "2010-09-01",
         "finishDate": "2012-06-01",
         "institution": {
-          "name": "IES Zaidin-Vergeles",
-          "description": ""
+          "name": "IES Zaidin-Vergeles"
         }
       }
     ]
@@ -608,31 +617,6 @@
         "Frontend Developer",
         "Human Resources"
       ]
-    },
-    "status": "searchingActively"
-  },
-  "asgardPreferences": {
-    "mainStackTechs": [
-      {
-        "name": "JAVA",
-        "type": "technology"
-      },
-      {
-        "name": "JavaScript",
-        "type": "technology"
-      },
-      {
-        "name": "Spring Boot",
-        "type": "technology"
-      },
-      {
-        "name": "NodeJS",
-        "type": "technology"
-      },
-      {
-        "name": "MySQL",
-        "type": "technology"
-      }
-    ]
+    }
   }
 }
