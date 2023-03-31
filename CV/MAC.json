@@ -1,0 +1,644 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Barbara",
+      "surnames": "Ruiz Medina",
+      "title": "Offering my skills as java developer",
+      "description": "Hola! =)\nMi nombre es Bárbara Ruiz.\nDurante años me he dedicado a recursos humanos pero mi vida dio un giro y tuve que reinventarme para no quedar fuera del mercado laboral.\n\nLa vida me trajo una mudanza a un pueblo de la campiña cordobesa y, tras unos meses de búsqueda de empleo en mi sector y comprobar la poca oferta, me lancé de cabeza al sector tecnológico como programadora sin tener conocimientos previos.\nEmpecé mi nueva carrera profesional con un bootcamp en programación web. Me gustó aunque notaba que, pese a todo el empeño, no iba a poder desarrollar bien los conocimientos en la empresa que me contratara. Me ofrecieron una beca de tardes para una transformación digital y la acepté, seis meses. En ella aprendí todo lo que sé de angular.\nTambién se me presentó la oportunidad de realizar formación reglada en Java y MySQL que debía de compaginar con la beca: acepté sin duda alguna. Honestamente, es lo mejor que he podido hacer porque me he encontrado con el mejor profesor que he podido tener en mi vida: con vocación y sabiendo transmitir su pasión por la informática; estoy muy agradecida con él y por todas las cosas aprendidas.\nTras seis meses de formación, lo he finalizado y estoy en búsqueda plena de empleo.\nMi único requisito es que el puesto ha de ser en remoto ya que no tengo disponibilidad para trasladarme. Eso sí: disponibilidad para viajar a la oficina sí que la tengo y estoy abierta a negociar.\nCreo que lo mejor es hablar y conocernos. Estoy segura de que podemos sacar una grata y entretenida conversación. Les invito a conocernos :)\nMuchas gracias por leerme,",
+      "avatar": {
+        "alt": "Captura de pantalla 2023-02-22 114839.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/31/a826ddff-bf09-4a26-b43b-92501840718b_captura-de-pantalla-.png"
+      },
+      "location": {
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Montilla",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/Babsrm"
+      },
+      {
+        "type": "other",
+        "URL": "https://github.com/Babsrm"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/barbararm1/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Jobs I have worked on:",
+        "fact": "I have also been spending my time working for years as:\n·waitress\n·house cleaner\n·shop assistant\n·aupair\n·babysitter\n·farmer"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "International Coverpool",
+          "URL": "https://internationalcoverpool.es/"
+        },
+        "roles": [
+          {
+            "name": "Internship Web Application Developer",
+            "startDate": "2022-09-01",
+            "finishDate": "2023-03-01",
+            "challenges": [
+              {
+                "description": "Digital transformation of the company and processes."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Abades Catering",
+          "URL": "https://www.abadescatering.com/"
+        },
+        "roles": [
+          {
+            "name": "Human Resources Administrative ",
+            "startDate": "2016-06-01",
+            "finishDate": "2022-04-01",
+            "challenges": [
+              {
+                "description": "Staff control and organization according to the demand for services | Hiring, Social\nSecurity registration, payroll and severance pays | Accounting and administrative tasks."
+              }
+            ],
+            "competences": [
+              {
+                "name": "SAP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "BlackJack Game",
+          "description": "A simple blackjack game. It is now completely playable through console. I am working on it evolving into an .jar application",
+          "URL": "https://github.com/Babsrm/blackjack-game"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-02-01",
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "anime searcher",
+          "description": "a simple searcher from an API\nI would like to give a proper user interface to it in a close future",
+          "URL": "https://babsrm.github.io/javascript-buscador-series-anime/"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-02-01",
+            "competences": [
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "seacher and filter ",
+          "description": "Searcher and filter as a part of a test.\nThis is connected to an API\nI would like to improve the UI in a close future.",
+          "URL": "https://babsrm.github.io/react-buscador-harry-potter/#/"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-01-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Database controls",
+          "description": "simple program that interacts with DB and get, set, update or delete entries",
+          "URL": "https://github.com/Babsrm/gestion_centro_dptos"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-02-01",
+            "finishDate": "2023-02-01",
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "five stars rating",
+          "description": "simple script asked in one hiring process",
+          "URL": "https://github.com/Babsrm/five-stars-rating"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-04-01",
+            "finishDate": "2022-04-01",
+            "competences": [
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Deploy components on a web app",
+          "description": "I have been able to finish the tasks that were entrusted to me during my internship.\nI was asked to create a series of components in Angular and they were finished on time, fully functional. It is worth mentioning that he did not know anything about technology."
+        },
+        "type": "achievement",
+        "publishingDate": "2023-03-01",
+        "relatedCompetences": [
+          {
+            "name": "AngularJS",
+            "type": "technology"
+          },
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "Oracle",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Self-Improvement"
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grid",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLite",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Zeplin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "FlexBox",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": false,
+        "name": "Spring Boot",
+        "startDate": "2023-03-01",
+        "institution": {
+          "name": "Udemy",
+          "description": ""
+        },
+        "linkedCompetences": [
+          {
+            "name": "Spring",
+            "type": "technology"
+          },
+          {
+            "name": "Spring Boot",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Programming in Structured Languages of Management Applications",
+        "startDate": "2022-09-01",
+        "finishDate": "2023-03-01",
+        "institution": {
+          "name": "Alborán formación",
+          "description": "Regulated studies and training in Java & MySQL. 700h",
+          "URL": "https://alboranformacion.es/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Front-End Developer",
+        "startDate": "2021-11-01",
+        "finishDate": "2022-02-01",
+        "institution": {
+          "name": "Adalab",
+          "description": "Bootcamp focused on front-end developing and some back-end notions. 600h\nReactJS | NodeJS | JavaScript | HTML5 | CSS 3 (SASS) | Agile & Scrum",
+          "URL": "https://adalab.es/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "MBA - HR Specializated",
+        "startDate": "2020-04-01",
+        "finishDate": "2020-10-01",
+        "institution": {
+          "name": "UCJC - IMF Business School",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Human Resources 2.0",
+        "startDate": "2019-02-01",
+        "finishDate": "2019-06-01",
+        "institution": {
+          "name": "IMF",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Associate degree - 1st year",
+        "startDate": "2015-08-01",
+        "finishDate": "2016-01-01",
+        "institution": {
+          "name": "Moorpark College",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "CFGS Administración y finanzas",
+        "startDate": "2010-09-01",
+        "finishDate": "2012-06-01",
+        "institution": {
+          "name": "IES Zaidin-Vergeles",
+          "description": ""
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/barbararm1/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "AngularJS",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "Bootstrap",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "Google Cloud",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
+          "name": "Oracle",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Spring",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Accounts & Payroll",
+        "Administration",
+        "Backend Developer",
+        "Frontend Developer",
+        "Human Resources"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "JAVA",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "Spring Boot",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "MySQL",
+        "type": "technology"
+      }
+    ]
+  }
+}
