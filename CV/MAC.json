@@ -194,6 +194,10 @@
                 "type": "technology"
               },
               {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
                 "name": "React",
                 "type": "technology"
               }
@@ -205,7 +209,7 @@
         "details": {
           "name": "Database controls",
           "description": "simple program that interacts with DB and get, set, update or delete entries",
-          "URL": "https://github.com/Babsrm/gestion_centro_dptos"
+          "URL": "https://github.com/Babsrm/gestion_empresa"
         },
         "type": "openSource",
         "roles": [
