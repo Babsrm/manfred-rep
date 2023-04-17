@@ -150,25 +150,6 @@
       },
       {
         "details": {
-          "name": "Portfolio",
-          "URL": "https://babsrm.github.io/portfolio/"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-04-01",
-            "competences": [
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "anime searcher",
           "description": "a simple searcher from an API\nI would like to give a proper user interface to it in a close future",
           "URL": "https://babsrm.github.io/javascript-buscador-series-anime/"
@@ -265,6 +246,31 @@
                 "name": "HTML",
                 "type": "technology"
               },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Portfolio",
+          "description": "Creación de portfolio básica en html y css. ",
+          "URL": "https://babsrm.github.io/portfolio/",
+          "image": {
+            "alt": "port1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/17/344c9171-ec72-45fa-be3c-2621416c25ff_port1.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-04-01",
+            "finishDate": "2023-04-01",
+            "competences": [
               {
                 "name": "JavaScript",
                 "type": "technology"
