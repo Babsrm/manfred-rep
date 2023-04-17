@@ -132,7 +132,11 @@
         "details": {
           "name": "BlackJack Game",
           "description": "A simple blackjack game. It is now completely playable through console. I am working on it evolving into an .jar application",
-          "URL": "https://github.com/Babsrm/blackjack-game"
+          "URL": "https://github.com/Babsrm/blackjack-game",
+          "image": {
+            "alt": "port3.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/17/c350ee19-4050-40f0-8e79-9f0d56e1d54c_port3.jpg"
+          }
         },
         "type": "openSource",
         "roles": [
